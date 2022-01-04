@@ -33,3 +33,4 @@ or use social media:
 
 Food Order System - https://github.com/Majkel97/FoodOrderSystem
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkel97)](https://github.com/anuraghazra/github-readme-stats)
