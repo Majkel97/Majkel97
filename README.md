@@ -2,6 +2,9 @@
 
 ### About me:
 
+I am a young and energetic person who has shown her commitment and willingness to develop in the last 4 years in her current job, which resulted in several promotions up to the position of Store Manager. Simultaneously with my professional work, I started part-time studies in the field of Computer Science, where I obtained the rector's scholarship for high academic results.
+I am currently looking for my first job or internship in IT as a software developer. In the future, I want to combine my current team management experience with the knowledge gained during my studies and subsequent programming positions to become the Team Leader of the programming team
+
 
 ---
 ### Contact:
