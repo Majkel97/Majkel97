@@ -29,7 +29,7 @@ or use social media:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkel97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-![](https://komarev.com/ghpvc/?username=Majkel97&label=PROFILE+VIEWS)
+
 
 ---
 ### Projects:
