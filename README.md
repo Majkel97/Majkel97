@@ -34,7 +34,7 @@ or use social media:
 ---
 ### Projects:
 
-Event Reservation - https://github.com/Majkel97/EventReservation <br>
-Food Order System - https://github.com/Majkel97/FoodOrderSystem 
+Event Reservation -  <br>
+Food Order System - 
 
 
