@@ -6,7 +6,7 @@ Backend Developer and IT Project Manager proficient in Python, Django, and
 PostgreSQL. Skilled in leading teams, developing web applications, and 
 creating internal automations. Good project management and communication 
 skills developed for over 3 years in leading positions. Committed to 
-continuous learning and staying updated with the latest industry trends
+continuous learning and staying updated with the latest industry trends.
 
 ---
 ### Contact:
